@@ -7,7 +7,7 @@ data set has been acquried form the web site "https://www.superdatascience.com/p
 the project is part of an course in Udemy.
 from the authors Kirill Eremenko and Hadelin De Ponteves
 the file "PolynomialRegression.py" has been developed by Nirav Reddi based on the above compatible versions
-where as the remaining file "PolynomialRegression.py" was supplied by the authors but isn't compatible with out some tweaks
+where as the remaining file "polynomial_regression.py" was supplied by the authors but isn't compatible with out some tweaks
 it has been tweaked with "Auto-matic Backward elimination process"
 
 ------------------------------------------------------------data_set-------------------------------------------------------------------
