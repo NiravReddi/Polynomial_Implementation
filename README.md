@@ -8,7 +8,5 @@ the project is part of an course in Udemy.
 from the authors Kirill Eremenko and Hadelin De Ponteves
 the file "PolynomialRegression.py" has been developed by Nirav Reddi based on the above compatible versions
 where as the remaining file "polynomial_regression.py" was supplied by the authors but isn't compatible with out some tweaks
-it has been tweaked with "Auto-matic Backward elimination process"
-
 ------------------------------------------------------------data_set-------------------------------------------------------------------
 the file "Positional_Salaries.csv" named the file for supplied data set from the above provided web source.
